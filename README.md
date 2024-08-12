@@ -12,7 +12,6 @@ By day, I dive into the world of health data analysis and project management, an
 - Tech Savvy: Fluent in SQL, Python, Tableau, and Power BI.
 - Project Management: Agile, JIRA
 - Medical Coding (CPT, ICD 9/10)
-- 
 
 ### Fun Facts:
 - I’ve interned at hospitals, so I’ve seen firsthand how data can transform patient care.
