@@ -15,8 +15,8 @@ medium: https://medium.com/@Mansipagare
 - Always: Passionate about improving health outcomes and finding the next big challenge.
 
 ### Skills & Tools
-- Tech Savvy: Fluent in SQL, Python, Tableau, and Power BI.
-- Project Management: Agile, JIRA
+- Tech Savvy: Fluent in SQL, Python, R, Tableau, Power BI, XML, HTML.
+- Project Management: Agile, JIRA, Salesforce, Asana
 - Medical Coding (CPT, ICD 9/10)
 
 ### Fun Facts:
