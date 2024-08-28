@@ -4,7 +4,9 @@ I'm Mansi Pagare, your friendly neighborhood data enthusiast with a knack for tu
 By day, I dive into the world of health data analysis and project management, and by night, I’m probably plotting my next career move or dreaming up ways to make healthcare better for everyone.
 
 linkdln: https://www.linkedin.com/in/mansipagare
+
 Tableau: https://public.tableau.com/app/profile/mansi.pagare
+
 medium: https://medium.com/@Mansipagare
 
 ### What I’m Up To:
