@@ -3,11 +3,11 @@
 I'm Mansi Pagare, your friendly neighborhood data enthusiast with a knack for turning numbers into stories. I have Master’s degree in Health Informatics from Indiana University and a background in biology and research.
 By day, I dive into the world of health data analysis and project management, and by night, I’m probably ranting on medium or dreaming up ways to make Dynamic Tableau Dashboards.
 
-linkdln: https://www.linkedin.com/in/mansipagare
+Linkdln: https://www.linkedin.com/in/mansipagare
 
 Tableau: https://public.tableau.com/app/profile/mansi.pagare
 
-medium: https://medium.com/@Mansipagare
+Medium: https://medium.com/@Mansipagare
 
 ### What I’m Up To:
 - Currently: Applying for exciting roles in healthcare and data analysis.
